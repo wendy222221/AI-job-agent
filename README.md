@@ -1,10 +1,5 @@
 求职规划系统 🎯
-https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white
-https://img.shields.io/badge/Streamlit-1.28+-red?logo=streamlit&logoColor=white
-https://img.shields.io/badge/OpenAI-API-00A67E?logo=openai&logoColor=white
-https://img.shields.io/badge/License-MIT-yellow?logo=opensourceinitiative&logoColor=white
-https://img.shields.io/badge/Status-Active-brightgreen?logo=github&logoColor=white
-https://img.shields.io/badge/AI-Agent-8A2BE2?logo=ai&logoColor=white
+
 
 🚀 你的智能求职搭档 | 从能力评估到简历优化，一站式搞定
 
