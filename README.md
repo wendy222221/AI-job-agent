@@ -72,6 +72,10 @@ text
 代码通过所有测试用例。
 
 遵循现有的代码风格（PEP 8）。
+结果展示<img width="1086" height="765" alt="22a483e1752453e083be4db41c252b98" src="https://github.com/user-attachments/assets/84b1e110-1cea-4eb2-b5ea-d590e05ef220" />
+<img width="957" height="699" alt="edf3f66f2978b77d4c89e5e0c134cafb" src="https://github.com/user-attachments/assets/e3edcd09-cddd-457e-8891-8fb38925f8f8" />
+<img width="1098" height="819" alt="addd71c08dc2696727de250afa526a80" src="https://github.com/user-attachments/assets/b920b6ed-ef63-47a1-bd45-f45485e78b15" /><img width="1248" height="819" alt="34ee45d067baa43f86daca091782b3f0" src="https://github.com/user-attachments/assets/4ea3de80-2917-4d19-b9ef-e3b3630ede07" />
+
 
 如果是新功能，请补充相应的文档。
 
